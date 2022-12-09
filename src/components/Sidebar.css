@@ -1,0 +1,37 @@
+.nav-menu {
+    font-size: 1.2vw;
+    margin-top: -8%;
+}
+
+.navbar-button{
+    /* display: flex; */
+    justify-content: flex-start;
+    align-items: center;
+    list-style: none;
+    border-radius: 1vw;
+    width: 12vw;
+    margin-bottom: 5%;
+}
+
+.nav-text {
+    align-items: center;
+    list-style: none;
+    color: beige;    
+    box-shadow: 2px 2px 5px #ccc;
+    border-radius: 1vw;
+    width: 12vw;
+    margin-bottom: 5%;
+    border: 1px solid beige;
+    font-size: 1.5vw;
+   
+}
+
+#logo {
+    width: 95%;
+    box-shadow: 7px 7px 20px #ccc;
+    justify-content: flex-start;
+    align-items: center;
+    background-color:beige;
+    padding: 6%;  
+    margin-bottom: 20%;
+}

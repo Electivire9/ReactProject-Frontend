@@ -1,0 +1,17 @@
+.mybtn{
+    margin: 5px;
+    padding: 5px;
+    width: 100px;
+    font-size: 20px;
+    color: #fff;
+    background-color:#ff4057;
+    text-align: center;
+    display: inline-block;
+    border: 2px black;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .2); 
+}
+
+.mybtn:hover{
+    background-color: darkgray;
+}

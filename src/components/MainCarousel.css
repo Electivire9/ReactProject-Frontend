@@ -1,0 +1,9 @@
+.main-carousel {
+    display: grid; 
+}
+
+img {
+    max-height: 400px;
+    margin: 1rem auto;
+}
+
